@@ -1,0 +1,17 @@
+tipo de documento,
+cuanto piensa invertir,
+fecha final un año inicial,
+un inversionista tiene varias inversiones,
+
+
+inversion * porcentajeAnual = retribucion
+inversion * porcentajeMensual = retribucion
+
+
+------------------------------
+ADMINISTRADOR 
+MANEJAR USUARIOS
+
+USUARIO
+SOLO CONTACTAR
+NO PUEDE ELIMINAR
